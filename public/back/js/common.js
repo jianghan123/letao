@@ -8,3 +8,4 @@ $(document).ajaxStart(function () {
 $(document).ajaxStop(function () {
     NProgress.done();
 })
+
